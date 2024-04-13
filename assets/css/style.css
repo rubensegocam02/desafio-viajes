@@ -37,7 +37,6 @@ h2 {
     margin-right: 180px;
     height: 1px;
     background-color: #FFFFFF;
-   
 }
 
 .line2 {
@@ -49,7 +48,6 @@ h2 {
 
 h5 {
     background-color: #2ba3ac;
-
 }
 
 .card-title {
@@ -60,3 +58,14 @@ h5 {
 .card-body p {
     background-color: #2ba3ac;
 }
+
+#button-bg {
+    background-color: #2ba3ac;
+    color: #FFFFFF;
+}
+
+
+
+
+
+    
