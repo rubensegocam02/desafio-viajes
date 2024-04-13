@@ -32,6 +32,21 @@ h2 {
     font-size: 33px;
 }
 
+.line1 {
+    margin-left: 180px;
+    margin-right: 180px;
+    height: 1px;
+    background-color: #FFFFFF;
+   
+}
+
+.line2 {
+    margin-left: 60px;
+    margin-right: 60px;
+    height: 1px;
+    background-color: #FFFFFF;
+}
+
 h5 {
     background-color: #2ba3ac;
 
