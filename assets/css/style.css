@@ -1,8 +1,19 @@
 body * {
-    background-color: #000000;
     color: #FFFFFF;
     font-family: "Montserrat";
 } 
+
+.navbar {
+    background-color: transparent;  
+}
+
+.navbar a {
+    color: #FFFFFF;
+}
+
+section {
+    background-color: #000000;
+}
 
 .fa-solid {
     background-color: #2ba3ac;
