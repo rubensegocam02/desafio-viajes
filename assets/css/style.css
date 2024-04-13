@@ -64,8 +64,38 @@ h5 {
     color: #FFFFFF;
 }
 
+.footer-bg {
+    background-color: #2ba3ac;
+}
 
+.footer-p {
+    background-color: #2ba3ac;
+    font-size: 36px;
+    padding-left: 350px;
+}
 
+.footer {
+    background-color: #2ba3ac;
+  }
+  
+.icons-bg {
+    background-color: #2ba3ac;
+}
 
+.footer a {
+    color: white;
+  }
 
+.icons-bg i {
+    background-color: #2ba3ac;
+}
+
+.icons-bg a {
+    background-color: #2ba3ac;
     
+  
+}
+
+
+
+
