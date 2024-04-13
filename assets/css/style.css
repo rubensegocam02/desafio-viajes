@@ -1,8 +1,8 @@
-/*body * {
+body * {
     background-color: #000000;
     color: #FFFFFF;
-} */
-
+    font-family: "Montserrat";
+} 
 
 .fa-solid {
     background-color: #2ba3ac;
@@ -20,4 +20,28 @@
     background-color: #2ba3ac;
 }
 
+.card-img-top {
+    background-color: #2ba3ac;
+}
 
+.card-body {
+    background-color:#2ba3ac
+}
+
+h2 {
+    font-size: 33px;
+}
+
+h5 {
+    background-color: #2ba3ac;
+
+}
+
+.card-title {
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.card-body p {
+    background-color: #2ba3ac;
+}
